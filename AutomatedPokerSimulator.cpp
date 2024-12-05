@@ -62,7 +62,7 @@ string cardToString(const Card& card) {
     return rankStr + suitStr;
 }
 
-// Structure to represent evaluated hand value
+// Struct to represent evaluated hand value
 struct HandValue {
     int category; // 1 to 9
     vector<int> tiebreakers; // For comparing hands within the same category
