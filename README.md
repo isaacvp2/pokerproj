@@ -6,4 +6,4 @@ To start, input your hand such as "As Kd", where the first character is the rank
 
 Since this program uses a Monte Carlo simulation, the more simulations, the more accurate the odds will be. The default number of simulations is 100,000, but you can change that by changing the number of simulations you want to run.
 
-This program also includes an automated simulator, which will run a specified amount of trials and output the data into a CSV file to create a dataset.
+This program also includes an automated simulator, which will run a specified amount of trials and output the data into a CSV file to create a dataset. An example of such a CVS file ("PokerOddsDataset.cvs") with 100,000 data points is included in the GitHub file.
