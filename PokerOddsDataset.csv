@@ -999,19 +999,3 @@ SimulationID,Player1Hand,Player2Hand,GameStage,CommunityCards,P1Win_Map,P2Win_Ma
 998,"Ks 6c ","6d 3d ",preflop,"",66,28,6,3,70,27,3,3
 999,"6s Qd ","3c 6h ",turn,"3h 3s 7d 7s ",0,98,2,2,0,98,2,3
 1000,"4s 5c ","Qs 7d ",preflop,"",47,53,0,3,35,60,5,3
-1001,"5h Kd ","10h 6s ",turn,"Kh 2s 3h 5d ",90,10,0,3,92,8,0,3
-1002,"4c 4s ","Kd Ad ",river,"2s 7c Qd Ac Qh ",0,100,0,3,0,100,0,3
-1003,"Qc 10c ","8h 5s ",preflop,"",60,38,2,3,67,32,1,3
-1004,"Kd 7d ","6c Ah ",flop,"3c 5h 6d ",42,58,0,3,34,64,2,3
-1005,"5h 2s ","Ac 2c ",flop,"Qs 4c Qd ",9,83,8,3,10,84,6,3
-1006,"6d 3c ","8h 5c ",flop,"Js 9s 6h ",71,29,0,3,68,32,0,3
-1007,"Qh Js ","5s 10d ",turn,"6d 10c 9h 4d ",33,67,0,3,31,69,0,3
-1008,"2d 7c ","Qs Jd ",preflop,"",30,70,0,3,37,61,2,3
-1009,"3h 8c ","Qs 4c ",river,"3s Js Qc 6h Ad ",0,100,0,3,0,100,0,3
-1010,"10h 8c ","Kh 5c ",flop,"5s 3c Js ",25,75,0,3,32,68,0,3
-1011,"Qc 7s ","5h Ah ",river,"Ad 6h Qh Kh 7d ",0,100,0,3,0,100,0,3
-1012,"Qd Kd ","Js 10h ",preflop,"",64,35,1,2,59,40,1,3
-1013,"Jd 7s ","10d 2c ",turn,"10c 9s 4c 2d ",5,95,0,2,10,90,0,3
-1014,"3h 8s ","Kd 2h ",turn,"Jh 7s 7h 5h ",30,67,3,3,33,61,6,3
-1015,"10c 8d ","Js 5s ",river,"Kh Ad As 10s Kd ",0,100,0,3,0,100,0,3
-1016,"Qc 4h ","10d Qd ",flop,"8h 9s 5d ",15,79,6,3,10,87,
